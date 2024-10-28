@@ -1,0 +1,9 @@
+5 - Resolução do problema dos interruptores e lâmpadas:
+
+Ligue o primeiro interruptor e espere alguns minutos para que a lâmpada aqueça.
+Desligue o primeiro interruptor e ligue o segundo interruptor.
+Vá até a sala das lâmpadas:
+Se uma lâmpada está acesa, ela é controlada pelo segundo interruptor (que você deixou ligado).
+Se uma lâmpada está apagada mas está quente, ela é controlada pelo primeiro interruptor (que você deixou ligado por alguns minutos e depois desligou).
+Se uma lâmpada está apagada e fria, ela é controlada pelo terceiro interruptor (que você nunca ligou).
+Com essa abordagem, você identifica qual interruptor controla cada lâmpada com apenas uma ida à sala das lâmpadas.
